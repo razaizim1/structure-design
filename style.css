@@ -231,6 +231,71 @@ p {
 
 .thirdSection {
     background: #1abc9c;
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+    border: black inset 2px;
+}
+
+.thirdSection1 {
+    background: #2ecc71;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.thirdSection2 {
+    background: #3498db;
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+    float: left;
+}
+
+.thirdSection3 {
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+    float: left;
+}
+
+.carton1 {
+    background: #f1c40f;
+    width: 100%;
+    height: 30%;
+    float: left;
+}
+
+.carton2 {
+    background: #ecf0f1;
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}
+
+.thirdSection4 {
+    height: 100%;
+    width: 30%;
+    overflow: hidden;
+}
+
+.container1 {
+    background: #7f8c8d;
+    height: 60%;
+    width: 100%;
+    float: left;
+}
+
+.container2 {
+    background: #bdc3c7;
+    height: 40%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.footer {
+    background: #ff7675;
     height: 100px;
     width: 100%;
+    border: black inset 2px;
 }
